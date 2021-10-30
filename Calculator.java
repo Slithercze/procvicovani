@@ -21,4 +21,4 @@ public class Calculator{
     System.out.println(myCalculator.add(5,7));
     System.out.println(myCalculator.substract(45,11));
   }
-}
+} 
